@@ -2,3 +2,5 @@
 downloaded_images
 downloaded_images_1
 downloaded_images_test
+dataset/test_out.csv
+main.py
